@@ -15,3 +15,17 @@
 #----CHECK THE MAGNET TO SEE FUTURE VERSION INFO---
 #
 # Might base it off https://github.com/BiglySoftware/BiglyBT-Android
+#
+#
+#open source app.
+#Jumps on any torrent file and creates a backchannel community.
+#Imagine you find some really cool download and u see 20 ppl sharing it and want to make friends based off that,or
+# just wonder what they are like.
+# leacher.club will connect to a tracker and gather the ips
+# then port scan them
+# bring up different things, http,ftp,ssh, ect. server, etc...
+#
+#In the final version I want to start adding server setups support as well
+#
+#
+#
