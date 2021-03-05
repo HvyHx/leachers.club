@@ -13,3 +13,5 @@
 # -created a magnet link for easy transfer (avoiding censorship is some cases) also as an art project I am going to spread these links around on NFC stickers.
 #
 #----CHECK THE MAGNET TO SEE FUTURE VERSION INFO---
+#
+# Might base it off https://github.com/BiglySoftware/BiglyBT-Android
