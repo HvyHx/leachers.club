@@ -2,7 +2,9 @@
 #Using torrents as Decentralization Art.
 #This a "alt community creation" art project that will start it's own community "pools" as well as content supporter teams.
 #
-#Version .001 was easy because it was just to explain a gaming idea, that I'm going to grow off of.
+#Version .001
+# magnet:?xt=urn:btih:366596dabeec04ac6ac148c0a3d5e9468d2d266a&dn=v.001
+#was easy because it was just to explain a gaming idea, that I'm going to grow off of.
 #
 #The first ever creation of this app, I'm doing with barely any coding knowledge.
 #-create shortcut file to leachers.club's github.
